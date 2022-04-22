@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dec-fund/static/css/main.e7720ab7.css",
-    "main.js": "/dec-fund/static/js/main.b63a4020.js",
+    "main.js": "/dec-fund/static/js/main.701c6d89.js",
     "static/js/478.c49a3ea9.chunk.js": "/dec-fund/static/js/478.c49a3ea9.chunk.js",
     "static/js/997.37c9a0c8.chunk.js": "/dec-fund/static/js/997.37c9a0c8.chunk.js",
     "static/js/312.bb1ccb17.chunk.js": "/dec-fund/static/js/312.bb1ccb17.chunk.js",
@@ -35,7 +35,7 @@
     "index.html": "/dec-fund/index.html",
     "static/media/Fortmatic.svg": "/dec-fund/static/media/Fortmatic.4324caad85616a5fb6d42390e17ac403.svg",
     "main.e7720ab7.css.map": "/dec-fund/static/css/main.e7720ab7.css.map",
-    "main.b63a4020.js.map": "/dec-fund/static/js/main.b63a4020.js.map",
+    "main.701c6d89.js.map": "/dec-fund/static/js/main.701c6d89.js.map",
     "478.c49a3ea9.chunk.js.map": "/dec-fund/static/js/478.c49a3ea9.chunk.js.map",
     "997.37c9a0c8.chunk.js.map": "/dec-fund/static/js/997.37c9a0c8.chunk.js.map",
     "312.bb1ccb17.chunk.js.map": "/dec-fund/static/js/312.bb1ccb17.chunk.js.map",
@@ -61,6 +61,6 @@
   },
   "entrypoints": [
     "static/css/main.e7720ab7.css",
-    "static/js/main.b63a4020.js"
+    "static/js/main.701c6d89.js"
   ]
 }
