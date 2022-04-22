@@ -14,13 +14,13 @@ import FundRaiserContribute from "./Pages/FundRaiserContribute";
 const App = () => {
   return (
     <div>
-      <Router>
+      <Router basename="/dec-fund">
         {/* Navbar */}
         <Navigation />
 
         {/* Setting the routes */}
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/dec-fund" element={<HomePage />} />
           <Route path="/create-fund-raiser" element={<CreateFundRaiser />} />
           <Route path="/fund-projects" element={<FundProjects />} />
           <Route
